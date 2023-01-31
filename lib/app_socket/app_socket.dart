@@ -5,7 +5,7 @@ import 'package:fluttercodeoptimization/app_socket/event_listener.dart';
 import 'package:fluttercodeoptimization/app_socket/events.dart';
 import 'package:socket_io_client/socket_io_client.dart' as io;
 
-String socketUrl = "https://socio.foobar.in";
+String socketUrl = "https://app_url";
 
 // this a singleton app socket class
 

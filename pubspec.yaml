@@ -41,6 +41,10 @@ dependencies:
   graphql: ^5.1.0
   socket_io_client: ^2.0.1
   chaleno: ^0.0.6
+  # file handler
+  encrypt: ^5.0.1
+  permission_handler: ^10.2.0
+  path_provider: ^2.0.12
   # for text to speak
   flutter_tts: ^3.6.3
   speech_to_text: ^6.1.1
